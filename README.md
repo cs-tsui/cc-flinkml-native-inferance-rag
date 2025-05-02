@@ -1,9 +1,10 @@
+## Table of Contents
 - [Confluent Cloud Flink Native AI Features - Implement RAG Workflow](#confluent-cloud-flink-native-ai-features---implement-rag-workflow)
   - [Prerequisites](#prerequisites)
     - [Confluent Cloud Setup](#confluent-cloud-setup)
     - [Vector Database Setup](#vector-database-setup)
-  - [1 Real-time Embeddings Pipeline Setup](#1-real-time-embeddings-pipeline-setup)
-  - [2 Fully Managed LLM Setup](#2-fully-managed-llm-setup)
+  - [1. Real-time Embeddings Pipeline Setup](#1-real-time-embeddings-pipeline-setup)
+  - [2. Fully Managed LLM Setup](#2-fully-managed-llm-setup)
   - [3. Put it all together: RAG Enhanced Prompts](#3-put-it-all-together-rag-enhanced-prompts)
   - [4. Cleanup](#4-cleanup)
 
